@@ -12,5 +12,3 @@ npm run dev
 ```
 
 Health check: `GET /health`
-
-Data file: `backend/data/students.json`
